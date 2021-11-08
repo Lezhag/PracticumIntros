@@ -1,0 +1,9 @@
+.idea
+.idea/modules.xml
+.idea/PracticumIntros.iml
+.idea/vcs.xml
+/DOM/node_modules/
+/DebuggingJS/node_modules/
+/Validations/node_modules/
+/Webpack/node_modules/
+/Webpack/dist/
